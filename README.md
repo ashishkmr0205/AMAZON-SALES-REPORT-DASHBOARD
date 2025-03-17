@@ -36,7 +36,7 @@ This project helped me strengthen my expertise in **data modeling**, **DAX calcu
 
 If you're passionate about data analysis or working on similar projects, I’d love to connect and exchange ideas! 🚀
 
-#PowerBI #DataAnalytics #DataVisualization #BusinessIntelligence #Dashboard
+**#PowerBI #DataAnalytics #DataVisualization #BusinessIntelligence #Dashboard**
 
 
 
