@@ -29,9 +29,8 @@ I’m excited to share my latest project — an **Amazon Sales Report Dashboard*
 ![Home_page](https://github.com/user-attachments/assets/c49da659-af25-49ee-980b-7eb0f589aa5f)
 ![Status_page](https://github.com/user-attachments/assets/8a8543a0-af90-4da5-8d69-c90e3b07b897)
 ![Map_page](https://github.com/user-attachments/assets/cef74a32-45cc-4316-ad0c-2f70d7b3d220)
-![Sizewise_tooltips_page](https://github.com/user-attachments/assets/59880396-b3fd-49a8-91e8-e0bb09c11fbc)
-![Category_Tooltips_page](https://github.com/user-attachments/assets/41deea6a-3846-4389-8232-be83515f84e4)
-![Tooltips_page](https://github.com/user-attachments/assets/9e5a3714-c5d6-46df-bb09-93e8da070aa0)
+![custom_tooltips](https://github.com/user-attachments/assets/8a311b8c-871d-4b9d-9ae5-9c1efd8e2fea)
+
 
 This project helped me strengthen my expertise in **data modeling**, **DAX calculations**, and **visual storytelling**. Power BI’s powerful analytics capabilities allowed me to transform raw data into meaningful insights, improving business decision-making.
 
