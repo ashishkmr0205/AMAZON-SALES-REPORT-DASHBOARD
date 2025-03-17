@@ -17,3 +17,11 @@ I’m excited to share my latest project — an **Amazon Sales Report Dashboard*
 
 
 📥 **Check out the full project on GitHub** 👉  <a href="https://github.com/ashishkmr0205/AMAZON-SALES-REPORT-DASHBOARD/blob/main/Amazon%20sales%20dashboard.pbix">View Dashboard</a>
+
+## 💡 What I Used:
+- ✅ **Power Query** for data cleaning and transformation
+- ✅ **Custom Calendar** using DAX for time intelligence
+- ✅ **KPI for Monthly Comparison** – Compared current month revenue, sales, returns, and cancellations with the previous month to identify trends and performance gaps
+- ✅ **Custom Tooltips** – Designed detailed tooltips to provide more context and deeper insights on hover
+- ✅ **Interactive Visuals** – Created line charts, bar charts, and pie charts for enhanced storytelling
+- ✅ **Drill-through and Slicers** – Enabled better data exploration and filtering
