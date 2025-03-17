@@ -13,3 +13,5 @@ I’m excited to share my latest project — an **Amazon Sales Report Dashboard*
 ✅ Average Orders Per Day: 1.42K
 ✅ Top-Selling Categories: Sets, Kurtas, and Western Dresses
 ✅ High sales concentration in metropolitan cities
+
+📥 **Check out the full project on GitHub** 👉  <a href="https://github.com/ashishkmr0205/AMAZON-SALES-REPORT-DASHBOARD/blob/main/Amazon%20sales%20dashboard.pbix">View Dashboard</a>
