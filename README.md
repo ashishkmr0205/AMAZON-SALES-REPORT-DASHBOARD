@@ -4,4 +4,4 @@ I’m excited to share my latest project — an **Amazon Sales Report Dashboard*
 
  ## Dataset Used
   
-  - <a href="https://github.com/ashishkmr0205/Pizza-Sales-Report-Dashboard/blob/main/pizza_sales_excel_file.xlsx">Dataset</a>
+  - <a href="https://github.com/ashishkmr0205/AMAZON-SALES-REPORT-DASHBOARD/blob/main/Amazon%20Sale%20Report.rar">Dataset</a>
