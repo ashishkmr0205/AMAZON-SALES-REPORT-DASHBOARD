@@ -7,6 +7,7 @@ I’m excited to share my latest project — an **Amazon Sales Report Dashboard*
   - <a href="https://github.com/ashishkmr0205/AMAZON-SALES-REPORT-DASHBOARD/blob/main/Amazon%20Sale%20Report.rar">Dataset</a>
 
 ## 🔎 Key Insights:
+
 ✅ Total Revenue: ₹78.57M | Net Revenue: ₹69.61M
 ✅ Total Orders: 129K | Total Units Sold: 117K
 ✅ Return Rate: 1.8%
