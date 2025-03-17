@@ -36,6 +36,7 @@ I’m excited to share my latest project — an **Amazon Sales Report Dashboard*
 This project helped me strengthen my expertise in **data modeling**, **DAX calculations**, and **visual storytelling**. Power BI’s powerful analytics capabilities allowed me to transform raw data into meaningful insights, improving business decision-making.
 
 If you're passionate about data analysis or working on similar projects, I’d love to connect and exchange ideas! 🚀
+
 #PowerBI #DataAnalytics #DataVisualization #BusinessIntelligence #Dashboard
 
 
