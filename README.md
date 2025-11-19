@@ -16,7 +16,7 @@ I’m excited to share my latest project — an **Amazon Sales Report Dashboard*
   -  High sales concentration in metropolitan cities
 
 
- **Check out the full project on GitHub** 👉  <a href="https://github.com/ashishkmr0205/AMAZON-SALES-REPORT-DASHBOARD/blob/main/Amazon%20sales%20dashboard.pbix">View Dashboard</a>
+ **Check out the full project on GitHub**   <a href="https://github.com/ashishkmr0205/AMAZON-SALES-REPORT-DASHBOARD/blob/main/Amazon%20sales%20dashboard.pbix">View Dashboard</a>
 
 ##  What I Used:
 -  **Power Query** for data cleaning and transformation
@@ -34,7 +34,7 @@ I’m excited to share my latest project — an **Amazon Sales Report Dashboard*
 
 This project helped me strengthen my expertise in **data modeling**, **DAX calculations**, and **visual storytelling**. Power BI’s powerful analytics capabilities allowed me to transform raw data into meaningful insights, improving business decision-making.
 
-If you're passionate about data analysis or working on similar projects, I’d love to connect and exchange ideas! 🚀
+If you're passionate about data analysis or working on similar projects, I’d love to connect and exchange ideas! 
 
 **#PowerBI #DataAnalytics #DataVisualization #BusinessIntelligence #Dashboard**
 
